@@ -4,6 +4,7 @@
 - Spring Batch is an open source framework for batch processing
 - Batch processing technique is process large of data in group instead of single element of data (use chunk method!)
 
+
 ## When To Use Spring Batch?
 
 ### Billing Analysis System
@@ -32,3 +33,5 @@ We want to automate generating files everyday (schedule jobs)
 Reader: Retrieves data from a source, like a file or database.
 Processor: Transforms or processes the input data.
 Writer: Writes the processed data to a destination, like a file or database.
+
+<footer>NaufalAzim 2024</footer>
